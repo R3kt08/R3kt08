@@ -261,15 +261,7 @@ interpretable model evaluation for downstream decision-making.
 
 ## `09` GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=R3kt08&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=8&margin-h=8" />
-
-</div>
-
-<br/>
-
----
+<div align="center"> <img src="https://github-profile-trophy-fork-two.vercel.app/?username=R3kt08&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" /> </div> <br/>
 
 ## `10` Contribution Activity
 

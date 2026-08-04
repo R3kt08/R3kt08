@@ -67,9 +67,9 @@ but "does it scale, does it perform, and does it move a business metric."
 ### Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python&theme=dark"/>
-&nbsp;
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-&nbsp;
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/DAX-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
 <br><br>
@@ -77,7 +77,9 @@ but "does it scale, does it perform, and does it move a business metric."
 ### Data Analytics & BI
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://skillicons.dev/icons?i=tableau&theme=dark"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+&nbsp;
 <img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
 <br><br>

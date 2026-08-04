@@ -90,7 +90,7 @@ but "does it scale, does it perform, and does it move a business metric."
 **Cloud, DevOps & Tooling**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-![Jupyter](https://img.shields.io/badge/Jupyter-6A0DAD?style=flat-square&logo=jupyter&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 

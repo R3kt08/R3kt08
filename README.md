@@ -3,8 +3,6 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Kunal%20Tarade&fontAlign=50&fontAlignY=38&fontSize=60&fontColor=ffffff&animation=fadeIn&color=timeGradient"/>
 </p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=B794F6&center=true&vCenter=true&width=650&lines=Turning+Data+Into+Decisions;Building+AI-Powered+Analytics+Engines;Power+BI+%7C+Python+%7C+SQL+%7C+Machine+Learning;Engineering+Insight+at+Enterprise+Scale" alt="Typing SVG" />
-
 <br/>
 
 [![Education](https://img.shields.io/badge/B.E.-AI%20%26%20Data%20Science-6A0DAD?style=for-the-badge&logo=googlescholar&logoColor=white)](#)

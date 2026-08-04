@@ -259,11 +259,7 @@ interpretable model evaluation for downstream decision-making.
 
 ---
 
-## `09` GitHub Trophies
-
-<div align="center"> <img src="https://github-profile-trophy-fork-two.vercel.app/?username=R3kt08&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" /> </div> <br/>
-
-## `10` Contribution Activity
+## `9` Contribution Activity
 
 <div align="center">
 
@@ -275,7 +271,7 @@ interpretable model evaluation for downstream decision-making.
 
 ---
 
-## `11` Current Focus
+## `10` Current Focus
 
 ```yaml
 current_focus:
@@ -299,7 +295,7 @@ current_focus:
 
 ---
 
-## `12` Connect
+## `11` Connect
 
 <div align="center">
 

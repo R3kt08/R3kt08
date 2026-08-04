@@ -64,36 +64,47 @@ but "does it scale, does it perform, and does it move a business metric."
 
 <div align="center">
 
-**Languages**
+### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,cs,html,css,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+&nbsp;
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/DAX-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
-**Data Visualization & BI**
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=tableau&theme=dark" /> &nbsp;
-![Power BI](https://img.shields.io/badge/Power%20BI-6A0DAD?style=for-the-badge&logo=powerbi&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Excel](https://img.shields.io/badge/Advanced%20Excel-7B2FF7?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+### Data Analytics & BI
 
-**Backend & Databases**
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=tableau&theme=dark"/>
+<img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+<br><br>
 
-**Libraries & Frameworks**
+### Databases
 
-![Pandas](https://img.shields.io/badge/Pandas-6A0DAD?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-4B0082?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-7B2FF7?style=flat-square&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-8A2BE2?style=flat-square&logo=python&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-B794F6?style=flat-square&logo=scikitlearn&logoColor=black)
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark"/>
 
-**Cloud, DevOps & Tooling**
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+### Data Science Libraries
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<br><br>
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
 </div>
-
-<br/>
 
 ---
 

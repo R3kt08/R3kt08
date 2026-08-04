@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:4b0082,100:6a0dad&height=250&section=header&text=Kunal%20Tarade&fontSize=60&fontColor=E6D9FF&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Analytics%20%26%20ML%20Systems&descAlignY=55&descSize=18" width="100%"/>
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Kunal%20Tarade&fontAlign=50&fontAlignY=38&fontSize=60&fontColor=ffffff&animation=fadeIn&color=timeGradient"/>
+</p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=B794F6&center=true&vCenter=true&width=650&lines=Turning+Data+Into+Decisions;Building+AI-Powered+Analytics+Engines;Power+BI+%7C+Python+%7C+SQL+%7C+Machine+Learning;Engineering+Insight+at+Enterprise+Scale" alt="Typing SVG" />
 
 <br/>

@@ -311,7 +311,7 @@ current_focus:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/R3kt08@gmail.com-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:R3kt08@gmail.com)
+[![Gmail](https://img.shields.io/badge/R3kt08@gmail.com-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunaltarade0804@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Kunal%20Tarade-4B0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunaltarade/)
 [![GitHub](https://img.shields.io/badge/R3kt08-7B2FF7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/R3kt08)
 

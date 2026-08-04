@@ -72,7 +72,7 @@ but "does it scale, does it perform, and does it move a business metric."
 
 <img src="https://skillicons.dev/icons?i=tableau&theme=dark" /> &nbsp;
 ![Power BI](https://img.shields.io/badge/Power%20BI-6A0DAD?style=for-the-badge&logo=powerbi&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-4B0082?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Excel](https://img.shields.io/badge/Advanced%20Excel-7B2FF7?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 **Backend & Databases**
